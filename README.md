@@ -19,4 +19,4 @@ This dataset presents transactions that occurred in two days, where we have 792 
 
 3. install required python packages if previously not installed.
 
-4. Finally run on Jupyter Notebook and enjoy. 😉
+4. Finally run on Jupyter Notebook and enjoy.
